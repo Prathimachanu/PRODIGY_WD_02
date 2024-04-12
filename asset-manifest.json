@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PRODIGY_WD_02/static/css/main.4089e7b7.css",
+    "main.js": "/PRODIGY_WD_02/static/js/main.296433ee.js",
+    "static/js/453.bead9516.chunk.js": "/PRODIGY_WD_02/static/js/453.bead9516.chunk.js",
+    "index.html": "/PRODIGY_WD_02/index.html",
+    "main.4089e7b7.css.map": "/PRODIGY_WD_02/static/css/main.4089e7b7.css.map",
+    "main.296433ee.js.map": "/PRODIGY_WD_02/static/js/main.296433ee.js.map",
+    "453.bead9516.chunk.js.map": "/PRODIGY_WD_02/static/js/453.bead9516.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4089e7b7.css",
+    "static/js/main.296433ee.js"
+  ]
+}
